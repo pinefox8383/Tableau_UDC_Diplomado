@@ -12,8 +12,11 @@ interactivo y dinámico que permita identificar puntos claves para la toma de de
 Se logró comprender el objetivo que se pretendía.
 
 Se realizó y publicó una historia con 3 DashBoard interactivos que permiten visualizar:
+
 	*	Estadístico de medios utilizados para el reclutamiento de personal
+
 	*	Estadístico de deserción de personal y análisis de la medición del rendimiento del personal
+
 	*	Comparativos de Salarios involucrando Departamento, Puestos y Géneros
 	
 mediante el cual se lograron identificar 3 puntos clave a tomar en cuenta:
