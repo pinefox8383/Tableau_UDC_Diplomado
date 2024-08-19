@@ -30,7 +30,7 @@ mediante el cual se lograron identificar 3 puntos clave a tomar en cuenta:
 		(Nuevamente se recomienda priorizar la búsqueda en esas plataformas mencionadas por los resultados obtenidos)
   ![2](https://github.com/user-attachments/assets/ca8fcbda-99c4-42ee-afe2-e6e40e4f3dd1)
 
-	2.-	Las 3 mayores razones de deserción de personal se debe a búsqueda de otro puesto, No estar felices con su pueto o por insatisfación con su salario
+	3.-	Las 3 mayores razones de deserción de personal se debe a búsqueda de otro puesto, No estar felices con su pueto o por insatisfación con su salario
 		se recomienda revisar si los salarios pagados en los puestos son competentes, y análizar a traves de encuestas cuales son las razones infelicidad o 
 		descontento con su puesto.				
   ![3](https://github.com/user-attachments/assets/bdc0616f-6fd2-4239-9ace-306953966f49)
