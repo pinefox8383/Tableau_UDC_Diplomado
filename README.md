@@ -17,6 +17,7 @@ Se realizó y publicó una historia con 3 DashBoard interactivos que permiten vi
 	*	Comparativos de Salarios involucrando Departamento, Puestos y Géneros
 	
 mediante el cual se lograron identificar 3 puntos clave a tomar en cuenta:
+
 	1.-	Las 2 plataformas más utilizadas para la contratación de Personal son: Indeed, LinkedIn
 		Se observa que el género femenino es el más preferido.
    ![1](https://github.com/user-attachments/assets/d22942a2-2996-4fa7-928e-b971d64bd404)
