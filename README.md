@@ -1,4 +1,4 @@
-# Modulo 4 Tableau - Caso Práctico
+# Módulo 4 Tableau - Caso Práctico
 
 Análisis de Personal - Departamento de Recursos Humanos "Compañía SRL S.A. de C.V."
 
