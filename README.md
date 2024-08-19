@@ -25,8 +25,8 @@ mediante el cual se lograron identificar 3 puntos clave a tomar en cuenta:
 		Se observa que el género femenino es el más preferido.
    ![1](https://github.com/user-attachments/assets/d22942a2-2996-4fa7-928e-b971d64bd404)
 
-	2.-	Las 3 plataformas más confiables donde se ha reclutado el personal mejor evaluado en la compañía
-		tanto para el género femenino como el másculino han sido:  Indeed, LinkedIn, Google Search  en ese orden.
+	2.-	Las 2 plataformas más confiables donde se ha reclutado el personal mejor evaluado en la compañía
+		tanto para el género femenino como el másculino han sido:  Indeed, LinkedIn en ese orden.
 		(Nuevamente se recomienda priorizar la búsqueda en esas plataformas mencionadas por los resultados obtenidos)
   ![2](https://github.com/user-attachments/assets/ca8fcbda-99c4-42ee-afe2-e6e40e4f3dd1)
 
