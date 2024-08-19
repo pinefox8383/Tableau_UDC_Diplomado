@@ -29,7 +29,7 @@ mediante el cual se lograron identificar 3 puntos clave a tomar en cuenta:
 	2.-	Las 3 mayores razones de deserción de personal se debe a búsqueda de otro puesto, No estar felices con su pueto o por insatisfación con su salario
 		se recomienda revisar si los salarios pagados en los puestos son competentes, y análizar a traves de encuestas cuales son las razones infelicidad o 
 		descontento con su puesto.				
-		![3](https://github.com/user-attachments/assets/606f0b70-c04b-40f5-9d3e-01b4d58e5fbe)
+  ![3](https://github.com/user-attachments/assets/bdc0616f-6fd2-4239-9ace-306953966f49)
 
-<a href="https://public.tableau.com/views/caso_practico/EstadsticoRH-CompaaSRL?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Mi Tableau </a>
+<a href="https://public.tableau.com/views/caso_practico/EstadsticoRH-CompaaSRL?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Acceso a Mi Tableau - Compañía SRL</a>
 
